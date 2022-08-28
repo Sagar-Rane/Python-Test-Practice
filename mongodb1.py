@@ -7,6 +7,12 @@ d = {
     'name':'sagar',
     'email':'sagar@gmail.com',
     'surname':'rane'
+    'name':'sandy',
+    'email':'sandy@gmail.com',
+    'surname':'pawar'
+    'name':'shri',
+    'email':'shri@gmail.com',
+    'surname':'bhise'
 }
 
 db1 = client['mongotest']
